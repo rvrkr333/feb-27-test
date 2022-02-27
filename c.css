@@ -1,0 +1,99 @@
+body{
+    text-align: center;
+}
+.one{
+    background-color:red;
+    text-align: center;
+    height: 300px;
+    margin:0px;
+    width:400px;
+    display: flex;
+    float: left;
+}
+.one h2{
+    color:blue;
+    text-align: center;
+    margin:150px;
+}
+.yellow{
+    background-color:rgba(255,242,0,255);
+    width:650px;
+    height:150px;
+    display: flex;
+    margin:0px;
+    float: left;
+}
+.yellow h2{
+    margin-top: 70px;
+    margin-left:300px;
+}
+.green{
+    background-color:rgba(0,148,69,255);
+    height:150px;
+    width:650px;
+    margin:0px;
+    display: flex;
+    float: left;
+}
+.green h2{
+    color:blue;
+    margin-top: 70px;
+    margin-left:300px;
+}
+.three{
+    background-color:rgba(237,0,140,255);
+    height: 300px;
+    margin:0px;
+    width:150px;
+    display:flex;
+}
+.three h2{
+    margin-top: 130px;
+    margin-left:40px;
+}
+
+.orange{
+    background-color:orange;
+    height:150px;
+    width:650px;
+    float: left;
+    display:grid;
+}
+.orange h2{
+    margin-top: 70px;
+    margin-left:100px;
+}
+.blue{
+    background-color:rgba(0,174,239,255);
+    height:150px;
+    width:150px;
+    display:flex;
+    float: left;
+}
+.blue h2{
+    margin-top: 60px;
+    margin-left:40px;
+}
+.brown{
+    background-color:rgba(196,154,108,255);
+    height:150px;
+    width:800px;
+    margin:0px;
+    display:flex;
+    float: left;
+}
+.brown h2{
+    margin-top: 70px;
+    margin-left:380px;
+}
+.seven{
+    background-color:rgba(102,45,145,255);
+    height: 300px;
+    width:400px;
+    margin:0px;
+    display:flex;
+}
+.seven h2{
+    margin-top: 140px;
+    margin-left:180px;
+}
